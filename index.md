@@ -7,8 +7,8 @@ In my free time, I enjoy reading and learning about our societies, people and po
 
 my [blogs reading list](/blogs_RL/)
 
-my [technical papers and blogs reading list]()
+my [technical papers and blogs reading list](/blogtech/)
 
-my [rules](/rules./)
+my [rules](/rules/)
 
 my [substack](https://vnaeumann.substack.com/)
