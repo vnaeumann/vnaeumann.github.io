@@ -6,6 +6,9 @@ In my free time, I enjoy reading and learning about our societies, people and po
 
 
 my [blogs reading list]()
+
 my [technical papers and blogs reading list]()
+
 my [rules]()
+
 my [substack](https://vnaeumann.substack.com/)
