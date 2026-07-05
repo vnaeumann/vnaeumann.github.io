@@ -5,7 +5,7 @@ I shall try to maintain an active reading list of the blogs I read, and another 
 In my free time, I enjoy reading and learning about our societies, people and policies.
 
 
-my [blogs reading list]()
+my [blogs reading list](/blogs_RL/)
 
 my [technical papers and blogs reading list]()
 
