@@ -1,3 +1,8 @@
+---
+title: rules
+permalink: /rules/
+---
+
 #RULES.
 
 1. be on time. even early if required.
