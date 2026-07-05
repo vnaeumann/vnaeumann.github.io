@@ -1,3 +1,8 @@
+---
+title: Blog Reading List
+permalink: /blogs_RL/
+---
+
 # July Readings
 
 ## Week 1: 1–5 July
